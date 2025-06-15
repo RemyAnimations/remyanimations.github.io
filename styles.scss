@@ -47,7 +47,7 @@ h1 {
 
 // Big title section
 .big-title {
-    background-image: url('platines.jpg'); // ici image de fond
+    background-image: <img src="platines.jpg">; // ici image de fond
     background-size: cover;
     background-position: center;
     height: 100vh; // Pleine hauteur d'écran
